@@ -1,3 +1,3 @@
 # C-Programing
-C Programing
-This is my first repository in git.
+C Programing. <br>
+This is my first git repository.
